@@ -1,5 +1,6 @@
 baseURL: "https://zhanjian0217.github.io/"
 title: ExampleSite
+languageCode: zh-tw
 paginate: 5
 theme: PaperMod
 
