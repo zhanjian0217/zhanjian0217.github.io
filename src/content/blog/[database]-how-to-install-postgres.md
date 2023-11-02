@@ -1,6 +1,6 @@
 ---
 author: 濟安
-pubDatetime: 2022-12-28
+pubDatetime: 2023-09-17
 title: 安裝 PostgreSQL
 postSlug: how-to-install-postgres
 featured: false

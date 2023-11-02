@@ -1,6 +1,6 @@
 ---
 author: 濟安
-pubDatetime: 2022-12-28
+pubDatetime: 2023-09-16
 title: 什麼是 SQL、RDBMS
 postSlug: what-is-sql_RDBMS
 featured: false
