@@ -9,7 +9,7 @@ import { SITE } from "./src/config";
 // https://astro.build/config
 export default defineConfig({
   site: SITE.website,
-  base: '/my-blog',
+  base: '/zhanjian0217.github.io',
   integrations: [
     tailwind({
       applyBaseStyles: false,
