@@ -7,7 +7,7 @@ export const SITE: Site = {
   title: "Zhan's blog",
   // ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 8,
 };
 
 export const LOCALE = ["zh-TW"]; // set to [] to use the environment default
