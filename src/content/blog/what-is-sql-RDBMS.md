@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - database
-description: New feature in AstroPaper v1.4.0, introducing dynamic OG image generation for blog posts.
+description: SQL (Structured Query Language)結構化查詢語言 是一種用於管理 關聯式資料庫管理系統 (RDBMS) 的程式語言
 ---
 
 
