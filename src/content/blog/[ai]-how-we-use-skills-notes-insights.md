@@ -3,7 +3,7 @@ pubDatetime: 2026-03-21
 title: AI 時代的 RD 武器庫：讀 How We Use Skills 的一些心得
 postSlug: how-we-use-skills-notes-insights
 featured: false
-draft: false
+draft: true
 tags:
   - ai
   - skills
