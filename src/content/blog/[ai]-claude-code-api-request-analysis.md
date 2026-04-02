@@ -1,9 +1,9 @@
 ---
-pubDatetime: 2026-03-26
+pubDatetime: 2026-04-02
 title: 拆解 Claude Code 的 API Request：System Prompt 與 Message 結構全解析
 postSlug: claude-code-api-request-analysis
 featured: false
-draft: true
+draft: false
 tags:
   - ai
   - claude-code
