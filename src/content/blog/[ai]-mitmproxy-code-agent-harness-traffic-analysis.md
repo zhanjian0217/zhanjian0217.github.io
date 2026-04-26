@@ -1,9 +1,9 @@
 ---
-pubDatetime: 2026-03-26
-title: 我用 mitmproxy 看了四個 Code Agent Harness 的底層流量：一些比想像中合理，另一些則比想像中更微妙
+pubDatetime: 2026-04-26
+title: 我用 mitmproxy 看了四個 Code Agent Harness 的底層流量
 postSlug: mitmproxy-code-agent-harness-traffic-analysis
 featured: false
-draft: true
+draft: false
 tags:
   - ai
   - claude-code
@@ -11,7 +11,7 @@ tags:
 description: 用 mitmproxy 攔截 Claude Code、Codex、OpenCode、Pi 的 HTTP/WSS 流量，直接觀察它們怎麼傳資料、維持上下文、掛載工具呼叫
 ---
 
-# 我用 `mitmproxy` 看了四個 Code Agent Harness 的底層流量：一些比想像中合理，另一些則比想像中更微妙
+# 我用 `mitmproxy` 看了四個 Code Agent Harness 的底層流量
 
 這篇算是我的調查筆記
 
